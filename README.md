@@ -13,12 +13,12 @@ This is a project created in the year 2022 with the aim of removing global bans 
 
 To install hwid spoofer, follow these steps:
 
-Linux and macOS:
+**Linux and macOS:**
 ```
 git clone https://github.com/Daniel-D3V/hwid-spoofer.git
 ```
 
-Windows:
+**Windows:**
 ```
 git clone https://github.com/Daniel-D3V/hwid-spoofer.git
 ```
