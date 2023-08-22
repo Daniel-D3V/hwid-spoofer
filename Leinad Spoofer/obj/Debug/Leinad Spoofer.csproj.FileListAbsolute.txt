@@ -1,0 +1,45 @@
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\FASM-LICENSE.TXT
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\FASM.DLL
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\FASMX64.DLL
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\Reloaded.Assembler.targets
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\Leinad Spoofer.exe.config
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\Leinad Spoofer.exe
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\Leinad Spoofer.pdb
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\aa\Leinad Spoofer.resources.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\pt-BR\Leinad Spoofer.resources.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\PeNet.Asn1.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\PeNet.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\System.Buffers.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\System.Memory.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\System.Buffers.xml
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\System.Memory.xml
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad_Spoofer.Form1.resources
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad_Spoofer.Login.Login.resources
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad_Spoofer.Properties.Resources.resources
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad_Spoofer.UserController.UC_Global.resources
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad_Spoofer.UserController.UC_Otimization.resources
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad_Spoofer.Form1.aa.resources
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad_Spoofer.Form1.pt-BR.resources
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad Spoofer.csproj.GenerateResource.Cache
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\aa\Leinad Spoofer.resources.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\pt-BR\Leinad Spoofer.resources.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad Spoofer.exe
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad Spoofer.pdb
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad Spoofer.csprojResolveAssemblyReference.cache
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\obj\Debug\Leinad_Spoofer.Components.LSTextBox.resources
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\Google.Protobuf.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\MySql.Data.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\ZstdNet.dll
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\BouncyCastle.Crypto.xml
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\Google.Protobuf.pdb
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\Google.Protobuf.xml
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\K4os.Compression.LZ4.xml
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\K4os.Hash.xxHash.xml
+D:\Users\Daniel Silva\Documents\Visual Studio 2017\Projects\Leinad Spoofer\Leinad Spoofer\bin\Debug\MySql.Data.xml
