@@ -36,3 +36,6 @@ git clone https://github.com/Daniel-D3V/hwid-spoofer.git
     </td>
   </tr>
 </table>
+
+> **Warning**
+> Todas as informações fornecidas aqui destinam-se exclusivamente a fins educacionais e de teste. Não endosso quaisquer atividades ilegais ou uso injusto deste programa.
